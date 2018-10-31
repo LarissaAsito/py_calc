@@ -1,6 +1,6 @@
 def Div(a, b):
 	if b != 0:
 		c = a / b #dividindo a por b 
-		return(c)
+		return(c) #retorna resultado da divisão
 	else:
         return("Nao da para dividir por 0!") #retorna um print caso obtenha divisão por 0
