@@ -1,5 +1,3 @@
 def Porcentagem(a):
     c = a / 100 #fazendo porcentagem
-    return(c) #retornando valor
-	
-	#fim
+    return(c) #retornando valoR
