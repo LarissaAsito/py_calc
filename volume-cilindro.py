@@ -1,7 +1,7 @@
 #Calcula o volume de um cilindro circular reto
 
-raio = float(input("\nInsira o valor do raio da base: "))
-altura = float(input("\n Insira o valor da altura do cilindro: "))
+raio = float(input("\nPor favor, insira o valor do raio da base: "))
+altura = float(input("\nAgora, insira o valor da altura do cilindro: "))
 
 def area_da_base(R):
 	R = raio
