@@ -1,2 +1,2 @@
-# py_calc
+# py_calculator
 Calculadora 
